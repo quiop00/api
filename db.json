@@ -23,11 +23,13 @@
             "times": [
               {
                 "startingTime":"08:00",
-                "endTime":"10:00"
+                "endTime":"10:00",
+                "status": false
               },
               {
                 "startingTime":"19:00",
-                "endTime":"21:00"
+                "endTime":"21:00",
+                "status": false
               }
             ]
           },
