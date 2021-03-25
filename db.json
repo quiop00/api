@@ -17,10 +17,10 @@
         "nameGrade": "Lớp 8"
       }
     ],
-    "schedule":[
+    "schedule": [
       {
         "teachingDay":"Thứ 2",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -29,7 +29,7 @@
       },
       {
         "teachingDay":"Thứ 3",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -56,10 +56,10 @@
         "nameGrade": "Lớp 8"
       }
     ],
-    "schedule":[
+    "schedule": [
       {
         "teachingDay":"Thứ 2",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -68,7 +68,7 @@
       },
       {
         "teachingDay":"Thứ 3",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -95,10 +95,10 @@
         "nameGrade": "Lớp 8"
       }
     ],
-    "schedule":[
+    "schedule": [
       {
         "teachingDay":"Thứ 2",
-        "times":[
+        "times" :[
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -107,7 +107,7 @@
       },
       {
         "teachingDay":"Thứ 3",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -134,10 +134,10 @@
         "nameGrade": "Lớp 8"
       }
     ],
-    "schedule":[
+    "schedule": [
       {
         "teachingDay":"Thứ 2",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -146,7 +146,7 @@
       },
       {
         "teachingDay":"Thứ 3",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -173,10 +173,10 @@
         "nameGrade": "Lớp 8"
       }
     ],
-    "schedule":[
+    "schedule": [
       {
         "teachingDay":"Thứ 2",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -185,7 +185,7 @@
       },
       {
         "teachingDay":"Thứ 3",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -212,10 +212,10 @@
         "nameGrade": "Lớp 8"
       }
     ],
-    "schedule":[
+    "schedule": [
       {
         "teachingDay":"Thứ 2",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -224,7 +224,7 @@
       },
       {
         "teachingDay":"Thứ 3",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -251,10 +251,10 @@
         "nameGrade": "Lớp 8"
       }
     ],
-    "schedule":[
+    "schedule": [
       {
         "teachingDay":"Thứ 2",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
@@ -263,7 +263,7 @@
       },
       {
         "teachingDay":"Thứ 3",
-        "times":[
+        "times": [
           {
             "startingTime":"17:00",
             "endTime":"20:00"
