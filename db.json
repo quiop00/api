@@ -24,7 +24,7 @@
               {
                 "startingTime":"08:00",
                 "endTime":"10:00",
-                "status": false
+                "status": true
               },
               {
                 "startingTime":"19:00",
@@ -38,7 +38,8 @@
             "times": [
               {
                 "startingTime":"17:00",
-                "endTime":"20:00"
+                "endTime":"20:00",
+                "status":true   
               }
             ]
           }
