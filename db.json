@@ -22,8 +22,12 @@
             "teachingDay":"Thứ 2",
             "times": [
               {
-                "startingTime":"17:00",
-                "endTime":"20:00"
+                "startingTime":"08:00",
+                "endTime":"10:00"
+              },
+              {
+                "startingTime":"19:00",
+                "endTime":"21:00"
               }
             ]
           },
