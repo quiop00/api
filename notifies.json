@@ -1,0 +1,19 @@
+{
+  "notifies":[
+    {
+      "title":"A",
+      "content":"An đã gửi một lời mời",
+      "readingStatus": "false"
+    },
+    {
+      "title":"A",
+      "content":"An đã gửi một lời mời tới bạn",
+      "readingStatus": "false"
+    },
+    {
+      "title":"A",
+      "content":"An đã gửi một lời mời đặt lịch",
+      "readingStatus": "false"
+    }
+  ]
+}
